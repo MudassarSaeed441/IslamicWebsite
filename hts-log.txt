@@ -1,0 +1,165 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 25 Apr 2025 19:45:27 at https://naudummy.com/muezzin/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://naudummy.com/muezzin/ -O1 "C:\xampp\htdocs\Islamic website 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:47:49	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/plugins/ingeniofy/css/owl.video.play.png (from https://naudummy.com/muezzin/wp-content/plugins/ingeniofy/css/owl.carousel.min.css?ver=6.7.2)
+19:47:49	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/img/flags.webp (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.6.4.4)
+19:47:49	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/img/flags@2x.webp (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.6.4.4)
+19:47:49	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/img/globe.webp (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.6.4.4)
+19:47:49	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/img/globe@2x.webp (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/css/events-manager.min.css?ver=6.6.4.4)
+19:47:51	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/themes/taqwa/assets/css/fonts/fontawesome-webfont.eot?v=4.6.3 (from https://naudummy.com/muezzin/wp-content/themes/taqwa/assets/css/webfonts.css?ver=6.7.2)
+19:47:51	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/themes/taqwa/assets/css/fonts/fontawesome-webfont.eot? (from https://naudummy.com/muezzin/wp-content/themes/taqwa/assets/css/webfonts.css?ver=6.7.2)
+19:47:51	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/themes/taqwa/assets/css/fonts/fontawesome-webfont.svg?v=4.6.3 (from https://naudummy.com/muezzin/wp-content/themes/taqwa/assets/css/webfonts.css?ver=6.7.2)
+19:47:51	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/wp-content/themes/images/tq-pattern.png (from https://naudummy.com/muezzin/wp-content/themes/taqwa/style.css?ver=6.7.2)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/POST (from https://naudummy.com/muezzin/wp-content/plugins/charitable/assets/js/charitable-session.min.js?ver=1.8.4.8)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/el.href (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.6.4.4)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/last.href (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.6.4.4)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/href, window.location.origin (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.6.4.4)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/search-mag.png (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.6.4.4)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/search-loading.gif (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.6.4.4)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/url, window.location.origin (from https://naudummy.com/muezzin/wp-content/plugins/events-manager/includes/js/events-manager.js?ver=6.6.4.4)
+19:47:52	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=2693
+19:47:52	Warning: 	File has moved from https://naudummy.com/muezzin/?p=2693 to https://naudummy.com/muezzin/islamic/
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/islamic/Array (from https://naudummy.com/muezzin/islamic/)
+19:47:52	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/islamic/Download PDF (from https://naudummy.com/muezzin/islamic/)
+19:48:04	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=103
+19:48:04	Warning: 	File has moved from https://naudummy.com/muezzin/?p=103 to https://naudummy.com/muezzin/our-campaigns/
+19:48:16	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=295
+19:48:16	Warning: 	File has moved from https://naudummy.com/muezzin/?p=295 to https://naudummy.com/muezzin/campaigns/educate-rural-kenya/
+19:48:16	Warning: 	Moved Permanently for https://naudummy.com/muezzin//campaigns/
+19:48:16	Warning: 	Redirected link is identical because of 'URL Hack' option: https://naudummy.com/muezzin//campaigns/ and https://naudummy.com/muezzin/campaigns/
+19:48:16	Warning: 	File has moved from https://naudummy.com/muezzin//campaigns/ to https://naudummy.com/muezzin/campaigns/
+19:48:17	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/2020/01/16/ (from https://naudummy.com/muezzin/campaigns/educate-rural-kenya/)
+19:48:28	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=79
+19:48:28	Warning: 	File has moved from https://naudummy.com/muezzin/?p=79 to https://naudummy.com/muezzin/upcoming-events/
+19:48:36	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=240
+19:48:36	Warning: 	File has moved from https://naudummy.com/muezzin/?p=240 to https://naudummy.com/muezzin/events/intl-hajj-program-offers/
+19:48:36	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=96
+19:48:36	Warning: 	File has moved from https://naudummy.com/muezzin/?p=96 to https://naudummy.com/muezzin/islamic-scholars/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=259
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=259 to https://naudummy.com/muezzin/team/sharif-hammam/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin//team/
+19:48:40	Warning: 	Redirected link is identical because of 'URL Hack' option: https://naudummy.com/muezzin//team/ and https://naudummy.com/muezzin/team/
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin//team/ to https://naudummy.com/muezzin/team/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=962
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=962 to https://naudummy.com/muezzin/about-us/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=3358
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=3358 to https://naudummy.com/muezzin/online-classes/
+19:48:40	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/online-classes/Array (from https://naudummy.com/muezzin/online-classes/)
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=3367
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=3367 to https://naudummy.com/muezzin/travel-tours/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=108
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=108 to https://naudummy.com/muezzin/offered-services/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=308
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=308 to https://naudummy.com/muezzin/services/hajj-umrah/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin//services/
+19:48:40	Warning: 	Redirected link is identical because of 'URL Hack' option: https://naudummy.com/muezzin//services/ and https://naudummy.com/muezzin/services/
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin//services/ to https://naudummy.com/muezzin/services/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=52
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=52 to https://naudummy.com/muezzin/latest-blog/
+19:48:40	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=55
+19:48:40	Warning: 	File has moved from https://naudummy.com/muezzin/?p=55 to https://naudummy.com/muezzin/grid-blog-posts/
+19:48:41	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=226
+19:48:41	Warning: 	File has moved from https://naudummy.com/muezzin/?p=226 to https://naudummy.com/muezzin/is-islam-a-modern-philosophy/
+19:48:45	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=2112
+19:48:45	Warning: 	File has moved from https://naudummy.com/muezzin/?p=2112 to https://naudummy.com/muezzin/audios/
+19:48:45	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=3416
+19:48:45	Warning: 	File has moved from https://naudummy.com/muezzin/?p=3416 to https://naudummy.com/muezzin/salat-timings/
+19:48:45	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/salat-timings/Array (from https://naudummy.com/muezzin/salat-timings/)
+19:48:45	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=128
+19:48:45	Warning: 	File has moved from https://naudummy.com/muezzin/?p=128 to https://naudummy.com/muezzin/islamic-teachings/
+19:48:46	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/islamic-teachings/Download PDF (from https://naudummy.com/muezzin/islamic-teachings/)
+19:48:53	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=115
+19:48:53	Warning: 	File has moved from https://naudummy.com/muezzin/?p=115 to https://naudummy.com/muezzin/contact-us/
+19:48:53	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=26
+19:48:53	Warning: 	File has moved from https://naudummy.com/muezzin/?p=26 to https://naudummy.com/muezzin/services/quran-learning/
+19:48:53	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=25
+19:48:53	Warning: 	File has moved from https://naudummy.com/muezzin/?p=25 to https://naudummy.com/muezzin/services/funeral-service/
+19:48:53	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=24
+19:48:53	Warning: 	File has moved from https://naudummy.com/muezzin/?p=24 to https://naudummy.com/muezzin/services/mosque-development/
+19:48:53	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=23
+19:48:53	Warning: 	File has moved from https://naudummy.com/muezzin/?p=23 to https://naudummy.com/muezzin/services/help-poor/
+19:48:53	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=68
+19:48:53	Warning: 	File has moved from https://naudummy.com/muezzin/?p=68 to https://naudummy.com/muezzin/islamic-religious-practices-and-rituals/
+19:48:57	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=64
+19:48:57	Warning: 	File has moved from https://naudummy.com/muezzin/?p=64 to https://naudummy.com/muezzin/common-islamic-religious-practices-and-rituals/
+19:48:58	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=225
+19:48:58	Warning: 	File has moved from https://naudummy.com/muezzin/?p=225 to https://naudummy.com/muezzin/todays-islamic-religious-practices-and-rituals/
+19:48:58	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=2740
+19:48:58	Warning: 	File has moved from https://naudummy.com/muezzin/?p=2740 to https://naudummy.com/muezzin/lp-term-conditions/
+19:48:58	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/Version/ (from https://naudummy.com/muezzin/wp-content/plugins/ingeniofy-plus/assets/js/swiper-bundle.min.js?ver=1.0.0)
+19:49:02	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/t.params.url (from https://naudummy.com/muezzin/wp-content/plugins/ingeniofy-plus/assets/js/swiper-bundle.min.js?ver=1.0.0)
+19:49:04	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/popper.js (from https://naudummy.com/muezzin/wp-content/themes/taqwa/assets/js/bootstrap.min.js?ver=1.0.0)
+19:49:04	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/-negative.svg (from https://naudummy.com/muezzin/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+19:49:04	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/OPR/ (from https://naudummy.com/muezzin/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.27.6)
+19:49:04	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=303
+19:49:04	Warning: 	File has moved from https://naudummy.com/muezzin/?p=303 to https://naudummy.com/muezzin/services/quran-studies/
+19:49:04	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=309
+19:49:04	Warning: 	File has moved from https://naudummy.com/muezzin/?p=309 to https://naudummy.com/muezzin/services/islamic-values/
+19:49:05	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=302
+19:49:05	Warning: 	File has moved from https://naudummy.com/muezzin/?p=302 to https://naudummy.com/muezzin/services/donation-help/
+19:49:05	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=357
+19:49:05	Warning: 	File has moved from https://naudummy.com/muezzin/?p=357 to https://naudummy.com/muezzin/team/sheikh-makhtom/
+19:49:05	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=356
+19:49:05	Warning: 	File has moved from https://naudummy.com/muezzin/?p=356 to https://naudummy.com/muezzin/team/ali-hammam/
+19:49:05	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=355
+19:49:05	Warning: 	File has moved from https://naudummy.com/muezzin/?p=355 to https://naudummy.com/muezzin/team/nasira-sheikh/
+19:49:05	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=255
+19:49:05	Warning: 	File has moved from https://naudummy.com/muezzin/?p=255 to https://naudummy.com/muezzin/team/ramini-rom/
+19:49:05	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=224
+19:49:05	Warning: 	File has moved from https://naudummy.com/muezzin/?p=224 to https://naudummy.com/muezzin/ulama-sermons-with-audio/
+19:49:06	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=60
+19:49:06	Warning: 	File has moved from https://naudummy.com/muezzin/?p=60 to https://naudummy.com/muezzin/help-needed-for-poor/
+19:49:06	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=294
+19:49:06	Warning: 	File has moved from https://naudummy.com/muezzin/?p=294 to https://naudummy.com/muezzin/campaigns/houses-for-homeless/
+19:49:07	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=293
+19:49:07	Warning: 	File has moved from https://naudummy.com/muezzin/?p=293 to https://naudummy.com/muezzin/campaigns/give-shelter-homes/
+19:49:07	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=292
+19:49:07	Warning: 	File has moved from https://naudummy.com/muezzin/?p=292 to https://naudummy.com/muezzin/campaigns/nurture-low-resource/
+19:49:08	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=297
+19:49:08	Warning: 	File has moved from https://naudummy.com/muezzin/?p=297 to https://naudummy.com/muezzin/campaigns/california-wildfire-fund/
+19:49:08	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/2020/01/15/ (from https://naudummy.com/muezzin/campaigns/california-wildfire-fund/)
+19:49:08	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=296
+19:49:08	Warning: 	File has moved from https://naudummy.com/muezzin/?p=296 to https://naudummy.com/muezzin/campaigns/health-care-support/
+19:49:14	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=37
+19:49:14	Warning: 	File has moved from https://naudummy.com/muezzin/?p=37 to https://naudummy.com/muezzin/campaigns/free-food-for-poor/
+19:49:16	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=239
+19:49:16	Warning: 	File has moved from https://naudummy.com/muezzin/?p=239 to https://naudummy.com/muezzin/events/world-scholars-meetup/
+19:49:16	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=87
+19:49:16	Warning: 	File has moved from https://naudummy.com/muezzin/?p=87 to https://naudummy.com/muezzin/events/importance-of-namaz/
+19:49:16	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=90
+19:49:16	Warning: 	File has moved from https://naudummy.com/muezzin/?p=90 to https://naudummy.com/muezzin/events/islamic-teachings/
+19:49:16	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=237
+19:49:16	Warning: 	File has moved from https://naudummy.com/muezzin/?p=237 to https://naudummy.com/muezzin/events/annual-conference-ost/
+19:49:16	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=241
+19:49:16	Warning: 	File has moved from https://naudummy.com/muezzin/?p=241 to https://naudummy.com/muezzin/events/learn-islam-inside-out/
+19:49:17	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=254
+19:49:17	Warning: 	File has moved from https://naudummy.com/muezzin/?p=254 to https://naudummy.com/muezzin/team/nasir-jamil/
+19:49:17	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=260
+19:49:17	Warning: 	File has moved from https://naudummy.com/muezzin/?p=260 to https://naudummy.com/muezzin/team/ismail-hanam/
+19:49:17	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=253
+19:49:17	Warning: 	File has moved from https://naudummy.com/muezzin/?p=253 to https://naudummy.com/muezzin/team/sheikh-makdoom/
+19:49:31	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=12
+19:49:31	Warning: 	File has moved from https://naudummy.com/muezzin/?p=12 to https://naudummy.com/muezzin/events/
+19:49:31	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/events/search-geo.png (from https://naudummy.com/muezzin/events/)
+19:49:31	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/events/search-geo-on.png (from https://naudummy.com/muezzin/events/)
+19:49:31	Error: 	"Not Found" (404) at link https://naudummy.com/muezzin/events/search-geo-off.png (from https://naudummy.com/muezzin/events/)
+19:49:34	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=15
+19:49:34	Warning: 	File has moved from https://naudummy.com/muezzin/?p=15 to https://naudummy.com/muezzin/events/tags/
+19:49:42	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=66
+19:49:42	Warning: 	File has moved from https://naudummy.com/muezzin/?p=66 to https://naudummy.com/muezzin/quran-and-islamic-teachings/
+19:49:42	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=227
+19:49:42	Warning: 	File has moved from https://naudummy.com/muezzin/?p=227 to https://naudummy.com/muezzin/needed-help-for-poor/
+19:49:42	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=89
+19:49:42	Warning: 	File has moved from https://naudummy.com/muezzin/?p=89 to https://naudummy.com/muezzin/events/modern-islam-challenges/
+19:49:42	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=36
+19:49:42	Warning: 	File has moved from https://naudummy.com/muezzin/?p=36 to https://naudummy.com/muezzin/campaigns/education-program/
+19:49:43	Warning: 	Moved Permanently for https://naudummy.com/muezzin/?p=35
+19:49:43	Warning: 	File has moved from https://naudummy.com/muezzin/?p=35 to https://naudummy.com/muezzin/campaigns/drinking-water-for-all/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 17 seconds : 580 links scanned, 488 files written (39506657 bytes overall) [22057751 bytes received at 85827 bytes/sec], 28152897 bytes transferred using HTTP compression in 401 files, ratio 24%, 12.7 requests per connection
+(31 errors, 123 warnings, 0 messages)
